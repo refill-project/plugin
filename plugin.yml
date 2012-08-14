@@ -1,0 +1,7 @@
+name: mod-get
+main: org.modget.plugin.ModGet
+version: 0.1
+commands:
+    mod-get:
+        description: mod-get command
+        usage: /mod-get
